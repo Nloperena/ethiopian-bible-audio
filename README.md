@@ -13,3 +13,13 @@ Files are served with GitHub Pages at https://nloperena.github.io/ethiopian-bibl
 Book ids match the app (gen, exo, ..., eno, jub, 1mq, 2mq, 3mq, 4ba, ..., rev, did, sta, apc).
 
 Chapters are added in batches while the rest are still being made. See PROVENANCE.md for how the audio was made and where the texts come from.
+
+## License
+The recordings (the `.webm` audio files), their timing files and `index.json` are licensed under the
+**Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**. Full legal code: [LICENSE](LICENSE),
+also at https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Credit: **Ethiopian Bible app (Nexrena LLC)**. Please link to https://github.com/Nloperena/ethiopian-bible-audio and note any changes you make.
+
+The underlying texts keep their own licenses, as listed in PROVENANCE.md (most are public domain).
+The voice model, Kokoro-82M, is licensed separately under the Apache License 2.0.

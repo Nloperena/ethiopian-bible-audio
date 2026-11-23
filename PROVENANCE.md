@@ -24,4 +24,6 @@
 AI drafts and retellings are labeled as such in the app and have not been reviewed by a scholar.
 
 ## License of these audio files
-The underlying texts are public domain or the app's own writing. The license for the project's own material (CC BY-SA 4.0 or CC0) will be set with the app's open-source release. Until then, please credit "Ethiopian Bible app audio, voice by Kokoro-82M (Apache 2.0)".
+- **Recordings** (`.webm`), timing files (`.json`) and `index.json`: **CC BY-SA 4.0** (Creative Commons Attribution-ShareAlike 4.0 International). Legal code in [LICENSE](LICENSE). Credit: **Ethiopian Bible app (Nexrena LLC)**.
+- **Underlying texts**: each keeps its own license, as listed in the table above. CC BY-SA 4.0 covers only the recordings, not the texts.
+- **Voice model**: Kokoro-82M v1.0 and the am_michael voice are licensed under the **Apache License 2.0** by their authors (https://huggingface.co/hexgrad/Kokoro-82M). They are not covered by CC BY-SA.
